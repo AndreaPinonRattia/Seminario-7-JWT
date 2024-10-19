@@ -1,0 +1,2 @@
+- Fer que un usuari introduint el seu ID i el seu token pugui fer canvis sobre les seves dades.
+- Fer que només puguin veure el llistat d'usuaris, aquells usuaris que tinguin rol d'administrador.
